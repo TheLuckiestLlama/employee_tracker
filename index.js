@@ -21,8 +21,8 @@ console.log(response))
 
 const pool = new Pool( 
     {
-        user:'postgres',
-        password: '2lucky4u!',
+        user:'username',
+        password: 'password',
         host: 'localhost',
         database: 'employees_db'
     },
